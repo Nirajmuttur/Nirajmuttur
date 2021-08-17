@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nirajmuttur
 - 🌱 I’m currently learning MERN Stack
-- 📫 How to reach me nirajmuttur@gmail.com
+- 📫 How to reach me nirajmuttur2@outlook.com
 
 <!---
 Nirajmuttur/Nirajmuttur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
