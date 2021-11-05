@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nirajmuttur
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning blockchain
 - 📫 How to reach me nirajmuttur2@outlook.com
 
 <!---
