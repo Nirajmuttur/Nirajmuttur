@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nirajmuttur
-- 🌱 I’m currently learning blockchain
+- 🌱 I’m currently learning microservices,docker,kubernetes
 - 📫 How to reach me nirajmuttur2@outlook.com
 
 <!---
