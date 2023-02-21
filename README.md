@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I have keen interest on programming and full stack web development<br>🌱 I’m currently learning Kubernetes.<br>
+🔭 I have keen interest on programming and full stack web development<br>🌱 I’m currently learning Kubernetes and terraform.<br>
 
 
 # 💻 Tech Stack:
